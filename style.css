@@ -1,0 +1,11 @@
+*{text-align: center;}
+section{
+    display: inline;
+}
+section.search{
+    background: #eeeeee;
+}
+article{
+    display: block;
+    height: min-content;
+}
